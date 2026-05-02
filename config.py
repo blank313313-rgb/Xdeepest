@@ -1,4 +1,4 @@
-BOT_TOKEN = "حط_التوكن_الجديد_هنا"
+BOT_TOKEN = "8536411249:AAG09g2YRMVuwehZCVNUP9UQsIpcPJ6VHoA"
 ADMIN_ID = 7611031552
 DB_PATH = "database.db"
-ENCRYPTION_KEY = "غيّر_هذا_لمفتاح_عشوائي_طويل"
+ENCRYPTION_KEY = "testabdullah"
